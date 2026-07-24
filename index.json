@@ -33934,5 +33934,41 @@
         "Category": "Self-Hosted",
         "Tags": "",
         "CreatedAt": "2026-07-15 10:26:34+00:00"
+    },
+    {
+        "Name": "Nightingale (Karaoke)",
+        "Reference": "nightingale-karaoke",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-23 13:02:04+00:00"
+    },
+    {
+        "Name": "rimgo",
+        "Reference": "rimgo",
+        "SVG": "Yes",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "Yes",
+        "Dark": "Yes",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-23 19:04:48+00:00"
+    },
+    {
+        "Name": "Crumbs (Notes)",
+        "Reference": "crumbs-notes",
+        "SVG": "No",
+        "PNG": "Yes",
+        "WebP": "Yes",
+        "Light": "No",
+        "Dark": "No",
+        "Category": "Self-Hosted",
+        "Tags": "",
+        "CreatedAt": "2026-07-23 19:08:23+00:00"
     }
 ]
